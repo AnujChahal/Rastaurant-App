@@ -1,4 +1,4 @@
-# OneBanc Restaurant Application 🍽️
+# Restaurant Application 🍽️
 
 ## 🎨 Material 3 Expressive Design - Complete Implementation
 
